@@ -1,1 +1,1 @@
-<img src="Um%20Astro%20Dev.png" width="600">
+<img src="images/Um_Astro_Dev.png" width="600">
