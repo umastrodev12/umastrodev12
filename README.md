@@ -1,3 +1,6 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/umastrodev12/umastrodev12/main/astro_novo_dev.png">
-</p>
+# Hi there 👋
+
+- 🔭 I’m currently working in many projects.
+- 🌱 I’m currently learning React and Android Development
+- 💬 Ask me about **HTML, Kotlin, Python, Discord.py**
+- ⚡ Fun fact: I Love Android Development and Kotlin =D
