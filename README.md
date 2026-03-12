@@ -15,3 +15,5 @@
 
 - Developing Valorant libs and more!
 ```
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1372337943884333127?showDisplayName=true&theme=dark)](https://discord.com/users/1372337943884333127)
