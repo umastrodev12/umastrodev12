@@ -4,6 +4,6 @@
 ---------------------------------------------------------
 | Langs:    | Python, Kotlin, Java, Typescript, C and +! |
 | OS:       | Windows, Linux(a bit)                      |
-| Projects: | LuaBot, Claw and +!                  |
+| Projects: | LuaBot, HobbyTwo, Min and +!               |
 ----------------------------------------------------------
 ```
