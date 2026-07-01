@@ -46,7 +46,7 @@
 |---|---|
 | 🎵 [**MiniMusic**](https://github.com/minimusic-app/minimusic) | Your home of music. Local, simple, fast and good. |
 | 🐶 [**LuaBot**](https://github.com/TheLuaBot/LuaBot) | A dog-themed Discord bot, making your server cooler. |
-| 💫 [**TeaLand**](https://github.com/PerfectTeaBR/TeaLand) | A few things for the PerfectTea universe. |
+| 💫 [**Mera**](https://github.com/mera-powered) | A SaaS for managing corporate expenses. |
 
 ---
 
