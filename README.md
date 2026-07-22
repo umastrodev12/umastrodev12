@@ -46,7 +46,7 @@
 |---|---|
 | 🎵 [**MiniMusic**](https://github.com/minimusic-app/minimusic) | Your home of music. Local, simple, fast and good. |
 | 🐶 [**LuaBot**](https://github.com/TheLuaBot/LuaBot) | A dog-themed Discord bot, making your server cooler. |
-| 💫 [**Mera**](https://github.com/mera-powered) | A SaaS for managing corporate expenses. |
+|  [**Uva**](https://github.com/TheUva) | an AI platform that monitors user projects. |
 
 ---
 
