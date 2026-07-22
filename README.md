@@ -46,7 +46,7 @@
 |---|---|
 | 🎵 [**MiniMusic**](https://github.com/minimusic-app/minimusic) | Your home of music. Local, simple, fast and good. |
 | 🐶 [**LuaBot**](https://github.com/TheLuaBot/LuaBot) | A dog-themed Discord bot, making your server cooler. |
-|  [**Uva**](https://github.com/TheUva) | an AI platform that monitors user projects. |
+| 🍇 [**Uva**](https://github.com/TheUva) | an AI platform that monitors user projects. |
 
 ---
 
