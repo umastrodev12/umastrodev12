@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Astro 👋</h1>
 
-<h3 align="center">🤍🖤 Backend-First Developer | Creator of MiniMusic, LuaBot & TeaLand</h3>
+<h3 align="center">🤍🖤 Backend-First Developer | Creator of LuaBot & TeaLand</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -17,7 +17,7 @@
 ### 🚀 About me
 
 - 🎯 Backend-first developer who enjoys building solid, well-architected **full-stack** developer.
-- 🛠️ Currently working on **MiniMusic** — a local, simple and fast desktop music player.
+- 🛠️ Currently working on **LuaBot** and a bunch of another personal projects <3 — a local, simple and fast desktop music player.
 - 🤍🖤 Owner of [**@TheLuaBot**](https://github.com/TheLuaBot) and [**@PerfectTeaBR**](https://github.com/PerfectTeaBR)
 - 🌐 I prefer web technologies (HTML/CSS/JS) over native UI frameworks when building websites
 - 💻 Mainly on Windows, with some Linux from time to time
@@ -44,7 +44,6 @@
 
 | Project | Description |
 |---|---|
-| 🎵 [**MiniMusic**](https://github.com/minimusic-app/minimusic) | Your home of music. Local, simple, fast and good. |
 | 🐶 [**LuaBot**](https://github.com/TheLuaBot/LuaBot) | A dog-themed Discord bot, making your server cooler. |
 | 🍇 [**Uva**](https://github.com/TheUva) | an AI platform that monitors user projects. |
 
