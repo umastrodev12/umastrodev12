@@ -17,7 +17,7 @@
 ### 🚀 About me
 
 - 🎯 Backend-first developer who enjoys building solid, well-architected **full-stack** developer.
-- 🛠️ Currently working on **LuaBot** and a bunch of another personal projects <3 — a local, simple and fast desktop music player.
+- 🛠️ Currently working on **LuaBot** and a bunch of another personal projects <3
 - 🤍🖤 Owner of [**@TheLuaBot**](https://github.com/TheLuaBot) and [**@PerfectTeaBR**](https://github.com/PerfectTeaBR)
 - 🌐 I prefer web technologies (HTML/CSS/JS) over native UI frameworks when building websites
 - 💻 Mainly on Windows, with some Linux from time to time
@@ -45,7 +45,7 @@
 | Project | Description |
 |---|---|
 | 🐶 [**LuaBot**](https://github.com/TheLuaBot/LuaBot) | A dog-themed Discord bot, making your server cooler. |
-| 🍇 [**Uva**](https://github.com/TheUva) | an AI platform that monitors user projects. |
+| ☂️ [**MiniMusic**](https://github.com/minimusic-app/minimusic) | A Local music player. |
 
 ---
 
